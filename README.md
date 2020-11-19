@@ -37,6 +37,8 @@
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mr_infinity1997)](https://twitter.com/mr_infinity1997)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananthabhatinnanje/)](https://www.linkedin.com/in/ananthabhatinnanje/)
   [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/anantha.innanje)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-R31ED760.svg?&style=flat-square&logo=instagram&logoColor=white&color=F77737)](https://www.instagram.com/mr_infinitii/)
+
   
 </div>
 
