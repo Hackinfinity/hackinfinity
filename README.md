@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on ![](https://user-images.githubusercontent.com/26193656/87819465-e964e600-c889-11ea-8eaa-667ffdb88623.png)
 - 💬 Ask me about __Open Source Communities (OSC's)__
-- 📫 How to reach me: ananthainnanje@accelerlab.co.in
+- 📫 How to reach me: ananthainnanje@gmail.com
 - ⚡ Fun fact: __World is much more than 0 & 1__
 
 
